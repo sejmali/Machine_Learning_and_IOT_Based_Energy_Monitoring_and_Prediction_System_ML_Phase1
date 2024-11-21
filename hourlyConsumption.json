@@ -1,0 +1,98 @@
+[
+    {
+        "timestamp": "2024-11-19 00:00:00",
+        "unitConsumption": 0.17056023003263138
+    },
+    {
+        "timestamp": "2024-11-19 01:00:00",
+        "unitConsumption": 0.17311466741450146
+    },
+    {
+        "timestamp": "2024-11-19 02:00:00",
+        "unitConsumption": 0.1748880450417487
+    },
+    {
+        "timestamp": "2024-11-19 03:00:00",
+        "unitConsumption": 0.17486713980762156
+    },
+    {
+        "timestamp": "2024-11-19 04:00:00",
+        "unitConsumption": 0.17432332399291248
+    },
+    {
+        "timestamp": "2024-11-19 05:00:00",
+        "unitConsumption": 0.17398308768324983
+    },
+    {
+        "timestamp": "2024-11-19 06:00:00",
+        "unitConsumption": 0.17398127920914644
+    },
+    {
+        "timestamp": "2024-11-19 07:00:00",
+        "unitConsumption": 0.17409178168445225
+    },
+    {
+        "timestamp": "2024-11-19 08:00:00",
+        "unitConsumption": 0.1741588612199134
+    },
+    {
+        "timestamp": "2024-11-19 09:00:00",
+        "unitConsumption": 0.1741596595267171
+    },
+    {
+        "timestamp": "2024-11-19 10:00:00",
+        "unitConsumption": 0.1741375123413741
+    },
+    {
+        "timestamp": "2024-11-19 11:00:00",
+        "unitConsumption": 0.17412417063050795
+    },
+    {
+        "timestamp": "2024-11-19 12:00:00",
+        "unitConsumption": 0.17412397105101957
+    },
+    {
+        "timestamp": "2024-11-19 13:00:00",
+        "unitConsumption": 0.1741283911306891
+    },
+    {
+        "timestamp": "2024-11-19 14:00:00",
+        "unitConsumption": 0.17413105204739798
+    },
+    {
+        "timestamp": "2024-11-19 15:00:00",
+        "unitConsumption": 0.1741310969854139
+    },
+    {
+        "timestamp": "2024-11-19 16:00:00",
+        "unitConsumption": 0.17413021599737077
+    },
+    {
+        "timestamp": "2024-11-19 17:00:00",
+        "unitConsumption": 0.17412968483950433
+    },
+    {
+        "timestamp": "2024-11-19 18:00:00",
+        "unitConsumption": 0.17412967503442986
+    },
+    {
+        "timestamp": "2024-11-19 19:00:00",
+        "unitConsumption": 0.17412985055575547
+    },
+    {
+        "timestamp": "2024-11-19 20:00:00",
+        "unitConsumption": 0.17412995661054642
+    },
+    {
+        "timestamp": "2024-11-19 21:00:00",
+        "unitConsumption": 0.1741299587228695
+    },
+    {
+        "timestamp": "2024-11-19 22:00:00",
+        "unitConsumption": 0.1741299237580182
+    },
+    {
+        "timestamp": "2024-11-19 23:00:00",
+        "unitConsumption": 0.17412990258070837
+    }
+]
